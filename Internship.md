@@ -1,7 +1,7 @@
 # 🚀 Virtual Internship at Internee.pk 🚀
 
 ## About the Internship
-I am currently part of Internee.pk’s Virtual Internship Program, where I am gaining hands-on experience in Cloud Computing and DevOps.
+I am currently part of Internee.pk Virtual Internship Program, where I am gaining hands-on experience in Cloud Computing and DevOps.
 
 ## 💡 Key Learning Areas:
 - AWS & Cloud Architecture ☁️
